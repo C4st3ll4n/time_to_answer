@@ -1,0 +1,21 @@
+pt-BR:
+  hello: "Olá Mundo"
+  activerecord:
+    models:
+      admin:
+        one: "Administrador"
+        others: "Administradores"
+      profile:
+        one: "Perfil"
+        others : "Perfis"
+    atributes:
+      admin:
+        id: "Identificador"
+        email: "E-mail"
+        created_at: "Criado em"
+        updateded_at: "Atualizado em"
+      profile:
+        id: "Identificador"
+        email: "E-mail"
+        created_at: "Criado em"
+        updateded_at: "Atualizado em"
